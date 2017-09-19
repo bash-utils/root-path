@@ -13,9 +13,9 @@ Get a local copy by either:
     $ git clone https://github.com/bash-utils/root-path.git
   ```
 
-Then source the `bash-utils/root-path.sh` script:
+Then source the `bash-utils/root-path/root-path.sh` script:
 ```bash
-$ source path/to/bash-utils/root-path.sh
+$ source path/to/bash-utils/root-path/root-path.sh
 ```
 
 
